@@ -1,9 +1,6 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import requests
-import hmac
-import hashlib
 import time
 from datetime import datetime
 import pybitflyer
